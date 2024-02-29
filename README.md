@@ -1,16 +1,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Meu nome é Thiago Dannemann e seja muito bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### My name is Thiago Dannemann and welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰 Salvador - Bahia - Brasil
-- 🧠 Desenvolvedor de Software Full stack
-- 🌳 Amante das trilhas e natureza.
-- 🏋🏽‍♂️ Praticante de Crossfit®
+- 🔰 Salvador - Bahia - Brazil
+- 🧠 Fullstack Developer
+- 🌳 Trekking and nature enthusiast
+- 🏋🏽‍♂️ Crossfit® practitioner
 
 
 ##
 
-#### Tecnologias que trabalho:
+#### Technologies I work:
 [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
@@ -23,7 +23,7 @@
 
 ##
 
-#### Ferramentas que utilizo:
+#### Tools I use:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
@@ -34,12 +34,12 @@
 
 ##
 
-#### Como entrar em contato comigo:
+#### How to make contact with me:
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thiagodannemann)
 [<img alt="Mail do Icloud Apple" src="https://img.shields.io/badge/email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>](mailto:thiagodan@live.com)
 
 ##
 
-#### Estatísticas:
+#### Statistics:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodannemann&layout=compact&langs_count=7&theme=radical"/>](https://github.com/)
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=thiagodannemann&show_icons=true&include_all_commits=true&theme=radical"/>](https://github.com/)
